@@ -15,3 +15,9 @@ function johnLennonFacts(facts){
   }
   return funFacts;
 }
+
+function iLoveTheBeatles(n){
+  var array = [];
+  array.push('I love the Beatles!');
+  
+}
